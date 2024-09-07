@@ -1,3 +1,5 @@
+# Pern To-do List
+
 This is a simple yet powerful Todo List application built using the PERN stack (PostgreSQL, Express.js, React.js, Node.js) along with basic CSS for styling. 
 The project demonstrates the essential CRUD operations and showcases the integration of a full-stack application with a relational database.
 
